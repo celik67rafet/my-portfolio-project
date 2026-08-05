@@ -1,11 +1,17 @@
 {
   "Navbar": {
     "home": "Home",
+    "r_and_d": "R & D",
+    "about_me": "About Me",
     "projects": "Projects",
     "about": "About",
     "contact": "Contact"
   },
   "Home": {
     "portfolio_project":"Portfolio Project"
+  },
+
+  "Footer": {
+    "rights": "© 2026 Rafet Celik. All Right Reserved."
   }
 }

@@ -1,11 +1,17 @@
 {
   "Navbar": {
     "home": "Ana Sayfa",
+    "r_and_d": "AR & GE",
+    "about_me": "Ben Kimim?",
     "projects": "Projeler",
     "about": "Hakkımda",
     "contact": "İletişim"
   },
   "Home": {
     "portfolio_project":"Portfolyö Projesi"
+  },
+
+  "Footer": {
+    "rights": "© 2026 Rafet Çelik. Tüm hakları saklıdır."
   }
 }

@@ -6,7 +6,7 @@ export default function HomePage(){
 
     return (
 
-          <div>
+          <div className="border">
             <h1 className="text-3xl font-bold mb-4">{t("portfolio_project")}</h1>
             {/* <ThemeToggle/> */}
           </div>
