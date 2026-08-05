@@ -2,42 +2,29 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="1122.5197"
-   height="476.22046"
-   viewBox="0 0 296.99999 126"
+   width="289.96042mm"
+   height="119.80161mm"
+   viewBox="0 0 289.96042 119.80161"
    version="1.1"
    id="svg1"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
-     id="defs1">
-    <rect
-       x="81.019325"
-       y="84.730133"
-       width="599.29565"
-       height="128.64137"
-       id="rect1-4-1" />
-  </defs>
+     id="defs1" />
   <g
-     id="layer2">
+     id="layer2"
+     style="fill:#ffffff;fill-opacity:1"
+     transform="translate(-3.4621644,-2.3060634)">
     <g
        id="g1"
        transform="matrix(9.5989972,0,0,9.5989972,-662.79996,-405.98857)"
        style="fill:#ffffff;fill-opacity:1">
-      <text
-         xml:space="preserve"
-         transform="matrix(0.26458333,0,0,0.26458333,47.67929,24.867672)"
+      <path
+         style="font-style:italic;font-weight:500;font-size:26.6667px;line-height:0;font-family:Saira;-inkscape-font-specification:'Saira Medium Italic';letter-spacing:9.96px;word-spacing:0.69px;white-space:pre;fill:#ffffff;fill-opacity:1"
+         d="m 89.259542,90.839617 q -2.373337,0 -3.866672,-0.346667 -1.466668,-0.373334 -2.160003,-1.333335 -0.693334,-0.960002 -0.693334,-2.720004 0,-0.933334 0.186667,-2.160003 0.186667,-1.226668 0.533334,-2.82667 0.533334,-2.400003 1.040001,-4.053338 0.533334,-1.653336 1.173335,-2.693337 0.640001,-1.066668 1.573336,-1.626669 0.960001,-0.56 2.320002,-0.773334 1.360002,-0.24 3.306671,-0.24 0.800001,0 1.706669,0.05333 0.906668,0.05333 1.706669,0.16 0.800001,0.08 1.386668,0.186667 l -0.506667,2.34667 q -0.720001,-0.106667 -1.413335,-0.16 -0.693334,-0.05333 -1.280002,-0.08 -0.586667,-0.02667 -1.040001,-0.02667 -1.520002,0 -2.560003,0.106667 -1.040002,0.106666 -1.706669,0.48 -0.666668,0.373334 -1.120001,1.146668 -0.426668,0.746668 -0.773335,2.026669 -0.346667,1.253335 -0.746667,3.146671 -0.320001,1.520002 -0.506668,2.613337 -0.186667,1.066668 -0.186667,1.840002 0,1.093335 0.453334,1.626669 0.453334,0.533334 1.466669,0.693334 1.013334,0.133334 2.74667,0.133334 0.906668,0 2.000003,-0.08 1.120001,-0.08 1.946669,-0.186666 l -0.506668,2.400003 q -0.586667,0.106666 -1.360001,0.186666 -0.773335,0.08 -1.573336,0.106667 -0.800001,0.05333 -1.546668,0.05333 z m 18.573368,-0.213334 3.92,-18.34669 h 12.64002 l -0.53334,2.480003 h -9.57334 l -1.17334,5.386674 h 8.26668 l -0.50667,2.42667 h -8.26668 l -1.2,5.57334 h 9.60002 l -0.53334,2.480003 z m 26.49337,0 3.92,-18.34669 h 3.04001 l -3.33334,15.76002 h 8.42668 l -0.56,2.58667 z m 24.65337,0 3.92,-18.34669 h 3.04 l -3.92,18.34669 z m 17.98669,0 3.92,-18.34669 h 3.04001 l -1.65334,7.813343 h 2.90667 l 7.60001,-7.813343 h 3.52001 l -8.98668,9.120012 5.14667,9.226678 h -3.33333 l -4.48001,-8.106677 h -2.90667 l -1.73334,8.106677 z"
          id="text1-2-8"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26.6667px;line-height:0;font-family:Saira;-inkscape-font-specification:'Saira Bold';letter-spacing:9.96px;word-spacing:0.66px;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect1-4-1);fill:#ffffff;fill-opacity:1"><tspan
-           x="81.019531"
-           y="90.626283"
-           id="tspan6"><tspan
-             style="font-style:italic;font-weight:500;-inkscape-font-specification:'Saira Medium Italic';word-spacing:0.69px"
-             id="tspan4">CELIK</tspan><tspan
-             dx="-0.65999717"
-             style="font-style:italic;font-weight:500;-inkscape-font-specification:'Saira Medium Italic'"
-             id="tspan5">
-</tspan></tspan></text>
+         transform="matrix(0.26458333,0,0,0.26458333,47.67929,24.867672)"
+         aria-label="CELIK&#10;" />
       <circle
          style="fill:#ffffff;fill-opacity:1;stroke-width:0.237"
          id="path3-4-7"
