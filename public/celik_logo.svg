@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="297mm"
+   height="126mm"
+   viewBox="0 0 297 126"
+   version="1.1"
+   id="svg1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <rect
+       x="81.019325"
+       y="84.730133"
+       width="599.29565"
+       height="128.64137"
+       id="rect1-4-1" />
+  </defs>
+  <g
+     id="layer2">
+    <g
+       id="g1"
+       transform="matrix(9.5989972,0,0,9.5989972,-662.79996,-405.98857)"
+       style="fill:#003f78;fill-opacity:1">
+      <text
+         xml:space="preserve"
+         transform="matrix(0.26458333,0,0,0.26458333,47.67929,24.867672)"
+         id="text1-2-8"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26.6667px;line-height:0;font-family:Saira;-inkscape-font-specification:'Saira Bold';letter-spacing:9.96px;word-spacing:0.66px;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect1-4-1);fill:#003f78;fill-opacity:1"><tspan
+           x="81.019531"
+           y="90.626283"
+           id="tspan6"><tspan
+             style="font-style:italic;font-weight:500;-inkscape-font-specification:'Saira Medium Italic';word-spacing:0.69px"
+             id="tspan4">CELIK</tspan><tspan
+             dx="-0.65999717"
+             style="font-style:italic;font-weight:500;-inkscape-font-specification:'Saira Medium Italic'"
+             id="tspan5">
+</tspan></tspan></text>
+      <circle
+         style="fill:#003f78;fill-opacity:1;stroke-width:0.237"
+         id="path3-4-7"
+         cx="91.350327"
+         cy="43.001541"
+         r="0.46640703" />
+      <path
+         d="m 89.820712,51.142107 a 4.0622203,25.016254 81.421004 0 0 -17.761707,1.516703 4.0622203,25.016254 81.421004 0 0 -2.64945,0.429431 4.3059934,23.089168 82.493983 0 1 3.309875,-0.479557 4.3059934,23.089168 82.493983 0 1 23.384101,1.275374 4.3059934,23.089168 82.493983 0 1 -0.56896,1.131714 4.0622203,25.016254 81.421004 0 0 2.19935,-2.179195 4.0622203,25.016254 81.421004 0 0 -7.913209,-1.69447 z"
+         style="fill:#003f78;fill-opacity:1;stroke-width:0.00120927"
+         id="path5-9" />
+    </g>
+  </g>
+</svg>
