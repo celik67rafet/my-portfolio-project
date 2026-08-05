@@ -15,10 +15,11 @@ export function Navbar(){
 
     // Dil değiştirici fonksiyon ( TR / EN ):
     const toggleLanguage = () => {
-
         const nextLocale = locale === "tr" ? "en" : "tr";
-        router.replace( pathname, { locale: nextLocale, scroll:false } );
-
+        const newPath = nextLocale === "tr" 
+            ? `/tr${pathname === "/" ? "" : pathname}`
+            : (pathname || "/");
+        window.location.href = newPath;
     }
 
     return (

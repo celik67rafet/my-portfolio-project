@@ -4,16 +4,8 @@ import createNextIntlPlugin from "next-intl/plugin";
 const withNextIntl = createNextIntlPlugin( "./src/i18n/request.ts" );
 
 const nextConfig: NextConfig = {
-
-  // Geliştirme modunda önbelleği devre dışı bırakır:
-  onDemandEntries: {
-    maxInactiveAge: 25 * 1000,
-    pagesBufferLength: 2,
-  },
-
-  // Static generation cache'ini sıfırlar:
-  staticPageGenerationTimeout: 1,
-
+  // Yerel ağdaki cihazlardan (tablet, telefon, IP) JS modüllerine erişim izni:
+  allowedDevOrigins: ["192.168.1.14", "127.0.0.1", "localhost"],
 };
 
 export default withNextIntl( nextConfig );
