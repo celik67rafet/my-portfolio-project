@@ -1,0 +1,11 @@
+{
+  "Navbar": {
+    "home": "Ana Sayfa",
+    "projects": "Projeler",
+    "about": "Hakkımda",
+    "contact": "İletişim"
+  },
+  "Home": {
+    "portfolio_project":"Portfolyö Projesi"
+  }
+}
