@@ -10,7 +10,7 @@ export function Footer(){
 
     return (
 
-        <footer className="w-full bg-white text-[#003f78ff] text-xl md:text-2xl px-8 py-4 border">
+        <footer className="w-full bg-white text-[#003f78ff] text-sm sm:text-base md:text-2xl px-8 py-4 border">
             <div className="flex flex-col gap-4 justify-center items-center">
                 <div className="flex gap-4">
                     <Link target="_blank" href="https://x.com/itwasagoodday6">

@@ -29,9 +29,9 @@ export function Navbar(){
 
                 <Link href="/" className="flex items-center">
             
-                    <Image src="/celik_white_logo.svg" alt="Çelik Logo" width={150} height={40} className="h-12 md:h-20 w-auto object-contain hidden dark:block"/>
+                    <Image src="/celik_white_logo.svg" alt="Çelik Logo" width={150} height={40} className="h-8 sm:h-10 md:h-12 lg:h-16 w-auto object-contain hidden dark:block"/>
 
-                    <Image src="/celik_logo.svg" alt="Çelik Logo" width={150} height={40} className="h-12 md:h-20 w-auto object-contain dark:hidden"/>
+                    <Image src="/celik_logo.svg" alt="Çelik Logo" width={150} height={40} className="h-8 sm:h-10 md:h-12 lg:h-16 w-auto object-contain dark:hidden"/>
 
                 </Link>
                 <div className="w-max justify-center items-center gap-8 text-2xl hidden md:flex">
