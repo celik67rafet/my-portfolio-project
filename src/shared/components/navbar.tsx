@@ -24,7 +24,7 @@ export function Navbar(){
 
     return (
 
-        <header className="w-full z-10 shadow-xl bg-white dark:bg-[#003f78ff] px-4 py-4  md:px-8 md:py-4">
+        <header className="w-full sticky top-0 z-10 shadow-xl bg-white dark:bg-[#003f78ff] px-4 py-4  md:px-8 md:py-4">
             <div className="flex justify-between md:gap-8">
 
                 <Link href="/" className="flex items-center">

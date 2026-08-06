@@ -8,10 +8,30 @@
     "contact": "Contact"
   },
   "Home": {
-    "portfolio_project":"Portfolio Project"
+    "portfolio_project":"Portfolio Project",
+    "title": "Rafet Çelik — Software Architecture, AI & Autonomous Systems",
+    "description": "R&D projects on software, artificial intelligence, and autonomous systems developed by Rafet Çelik. The future of Çelik technologies.",
+    "hero_title": "Geleceğin Yazılım ve Otonom Teknolojileri",
+    "hero_subtitle": "Yapay zeka, otonom sistemler ve ileri düzey yazılım mimarileri üzerine Ar-Ge çözümleri.",
+    "first_title":"Rafet Çelik",
+    "second_title":"Junior Software Developer & Mechanical Engineer",
+    "first_p":"In my journey from mechanical engineering to software development, I learn AI and autonomous systems not just in theory, but by experiencing them directly through hands-on projects. Turning my learning process into a transparent R&D journey through projects like Project DatumNAV, I am laying the groundwork for future steel technologies.",
+    "third_title":"Areas of Interest",
+    "fourth_title": "Software Architectures",
+    "second_p":"By integrating the transformation driven by AI tools and autonomous agents into my workflow, I have had the opportunity to quickly experiment with new technologies. Rather than tying myself to a single tech stack, I actively write code and conduct architectural experiments across the Java (Spring Boot), Microsoft (.NET), and JavaScript/TypeScript (React, Angular) ecosystems.",
+    "third_p": "I build projects by testing different architectural approaches across these ecosystems, ranging from layered architectures to microservices. While leveraging AI as an accelerator, my main focus remains on mastering sustainable software architectures and maintaining a culture of continuous learning.",
+    "fifth_title":"Artificial intelligence",
+    "fourth_p":"Although my bachelor's degree or professional background was not directly focused on artificial intelligence, ignoring the opportunities provided by today's easy access to information would have been a disservice to myself. Driven by curiosity to understand the mechanics behind the AI tools I've been using frequently in recent months, I embarked on a hands-on learning process.",
+    "fifth_p":"In this process where one question sparked another, while researching the fundamental principles of LLMs, customization possibilities, and offline use cases, I quickly gained hands-on experience with RAG and Fine-Tuning techniques. Then, driven by the hardware curiosity stemming from my mechanical engineering background, I pursued the question 'How can we add intelligence to physical systems using low-cost hardware and sensors?', and developed applications on Reinforcement Learning and CNN-based image processing. I will continue to broaden my theoretical and practical depth in this field until reaching specialization.",
+    "sixth_title":"Autonomous Systems and Mechanics",
+    "sixth_p":"Ever since childhood, I have had a deep fascination with anything that has wheels or propellers; I used to draw complex vehicle and robot designs on every piece of paper I could find. This curiosity led me, at the end of my undergraduate studies, to a test project for a land vehicle equipped with active aerodynamic parts.",
+    "seventh_p":"At that time, without even knowing what a programming language actually was, I wrote my first lines of code solely through trial and error within the Arduino IDE. Although I had to settle for a simple prototype due to pandemic conditions and limited resources, failing to fully reflect my dream model in the field, I experienced the magic of sensors and electronics firsthand.",
+    "eighth_p":"Over time, as I became acquainted with the software world, I pushed this vision even further. In recent months, using Reinforcement Learning within the Python environment, I have developed autonomous vehicle simulations that can self-navigate through unfamiliar tracks using virtual sensors.",
+    "nineth_p":"For me, initial projects that remained limited are simply goals deferred to the future. Today, as the first software demo of this process, I have released Project DatumNAV, my offline all-terrain navigation engine. I aim to eventually transform the hardware and autonomy processes, which are currently in the idea and learning phase, into physical prototypes."
   },
 
   "Footer": {
     "rights": "© 2026 Rafet Celik. All Right Reserved."
   }
+  
 }

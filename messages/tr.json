@@ -8,7 +8,27 @@
     "contact": "İletişim"
   },
   "Home": {
-    "portfolio_project":"Portfolyö Projesi"
+    "portfolio_project":"Portfolyö Projesi",
+    "title": "Rafet Çelik — Yazılım Mimarisi, Yapay Zekâ ve Otonom Sistemler",
+    "description": "Rafet Çelik tarafından geliştirilen yazılım, yapay zeka ve otonom sistemler üzerine Ar-Ge projeleri. Geleceğin Çelik teknolojileri.",
+    "hero_title": "Geleceğin Yazılım ve Otonom Teknolojileri",
+    "hero_subtitle": "Yapay zeka, otonom sistemler ve ileri düzey yazılım mimarileri üzerine Ar-Ge çözümleri.",
+    "first_title":"Rafet Çelik",
+    "second_title":"Junior Software Developer & Makine Mühendisi",
+    "first_p":"Makine mühendisliğinden yazılıma uzanan yolculuğumda, yapay zekâ ve otonom sistemleri teoride değil, doğrudan projelerin içinde deneyimleyerek öğreniyorum. Öğrenme sürecimi şeffaf bir Ar-Ge yolculuğuna dönüştürdüğüm Project DatumNAV ve benzeri çalışmalarla, geleceğin Çelik teknolojilerine zemin hazırlıyorum.",
+    "third_title":"İlgi Alanlarım",
+    "fourth_title":"Yazılım Mimarileri",
+    "second_p":"Yapay zekâ araçlarının ve otonom ajanların yazılım dünyasında yarattığı dönüşümü süreçlerime entegre ederek, yeni teknolojileri hızlıca deneyimleme imkânı buldum. Tek bir teknolojiye bağlı kalmak yerine; Java (Spring Boot), Microsoft (.NET) ve JavaScript/TypeScript (React, Angular) ekosistemlerinde aktif olarak kod yazıyor ve mimari denemeler gerçekleştiriyorum.",
+    "third_p": "Katmanlı mimarilerden mikroservislere kadar farklı yaklaşımları bu ekosistemler üzerinde sınayarak projeler üretiyorum. Yapay zekânın sunduğu hızlandırıcılardan faydalanırken, asıl odağımı sürdürülebilir yazılım mimarilerini kavramaya ve sürekli öğrenme kültürünü canlı tutmaya veriyorum.",
+    "fifth_title":"Yapay Zeka",
+    "fourth_p":"Lisans eğitimim veya profesyonel geçmişim doğrudan yapay zekâ odaklı olmasa da, günümüzde bilgiye erişimin sunduğu imkânları görmezden gelmek kendime haksızlık olurdu. Son aylarda sıkça kullandığım yapay zekâ araçlarının arkasındaki mekanizmayı anlama merakıyla doğrudan deneyerek öğrenme sürecine girdim.",
+    "fifth_p":"Bir sorunun başka bir soruyu tetiklediği bu süreçte; LLM'lerin çalışma prensiplerini, özelleştirme imkânlarını ve çevrimdışı kullanım senaryolarını araştırırken kısa sürede RAG ve Fine-Tuning tekniklerini deneyimledim. Ardından makine mühendisliği altyapımın getirdiği donanım merakıyla, 'Düşük donanımlar ve sensörlerle fiziksel sistemlere nasıl akıl katılabilir?' sorusunun peşine düşerek Reinforcement Learning ve CNN tabanlı görüntü işleme üzerine uygulamalar yaptım. Bu alandaki teorik ve pratik derinliğimi uzmanlaşana kadar genişletmeye devam edeceğim.",
+    "sixth_title":"Otonom Sistemler ve Mekanik",
+    "sixth_p":"Çocukluğumdan beri tekerleği veya pervanesi olan her şeye büyük bir ilgim vardı; bulduğum her kâğıt parçasına karmaşık araçlar ve robot tasarımları çizerdim. Bu merak, lisans eğitimimin sonunda beni aktif aerodinamik parçalara sahip bir kara aracının test projesine yöneltti.",
+    "seventh_p":"O dönem yazılım dilinin ne olduğunu bile bilmeden, sadece Arduino IDE üzerinde deneme-yanılma yoluyla ilk kodlarımı yazdım. Pandemi koşulları ve kısıtlı imkânlar nedeniyle hayalimdeki modeli sahaya tam yansıtamayıp basit bir prototiple yetinmek zorunda kalsam da, sensörlerin ve elektroniğin büyüsünü bizzat deneyimledim.",
+    "eighth_p":"Aradan geçen zamanda yazılım dünyasını tanıdıkça bu vizyonu daha ileriye taşıdım. Son aylarda Python ortamında Reinforcement Learning kullanarak, sanal sensörleriyle hiç bilmediği pistlerde kendi kendine tur atabilen otonom araç simülasyonları geliştirdim.",
+    "nineth_p":"Benim için kısıtlı kalan ilk projeler geleceğe ertelenmiş hedeflerdir. Bugün bu sürecin ilk yazılımsal demosu olarak offline çalışan arazi navigasyon motorum Project DatumNAV'ı yayınladım. Henüz fikir ve öğrenme aşamasında olduğum donanım ve otonomi süreçlerini zamanla fiziksel prototiplere dönüştürmeyi hedefliyorum."
+
   },
 
   "Footer": {

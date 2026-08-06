@@ -38,7 +38,7 @@ export default async function LocaleLayout({ children, params }: Readonly<{ chil
 
         <SecondNavbar/>
 
-        <main className="flex-1 px-2 py-8 md:px-16 md:py-20 xl:px-56 xl:py-24">
+        <main className="flex-1 px-2 py-8 md:px-10 md:py-20 lg:px-16 lg:py-24 xl:px-32 xl:py-32 2xl:px-56 2xl:py-24">
           {children}
         </main>
 
