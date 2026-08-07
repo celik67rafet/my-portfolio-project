@@ -92,20 +92,20 @@ export default function AboutMe(){
               }),
             }}></script>
 
-            <div className="flex items-center">
+            <div className="flex items-center flex-col md:flex-row">
                 <Image src="/sketch_kid_light.svg" alt="Project Failed Image" width={150} height={40} className="h-90 w-auto dark:hidden"/>
                 <Image src="/sketch_kid_dark.svg" alt="Project Failed Image" width={150} height={40} className="h-90 w-auto hidden dark:block"/>
                 <p>{t("first_p")}</p>
             </div>
 
-            <div className="flex items-center">
+            <div className="flex items-center flex-col-reverse md:flex-row">
                 <p>{t("second_p")}
                 </p>
                 <Image src="/project_failed_light.svg" alt="Rafet's Childhood" width={150} height={40} className="h-90 w-auto hidden dark:block"/>
                 <Image src="/project_failed_dark.svg" alt="Rafet's Childhood" width={150} height={40} className="h-90 w-auto dark:hidden"/>
             </div>
 
-            <div className="flex items-center">
+            <div className="flex items-center flex-col md:flex-row">
                 <Image src="/project_man_light.svg" alt="Project Man" width={150} height={40} className="h-90 w-auto dark:hidden"/>
                 <Image src="/project_man_dark.svg" alt="Project Man" width={150} height={40} className="h-90 w-auto hidden dark:block"/>
                 <p>{t("third_p")}</p>
