@@ -16,6 +16,8 @@ export async function generateMetadata( { params }: Props ){
 
   const canonicalUrl = locale === "en" ? "https://rafetcelik.com" : `https://rafetcelik.com/${locale}`;
 
+  const ogImageUrl = "https://rafetcelik.com/opengraph_image.png";
+
   return {
 
     title: t("title"),
@@ -32,7 +34,24 @@ export async function generateMetadata( { params }: Props ){
       description: t("description"),
       locale: locale === "tr" ? "tr_TR" : "en_US",
       type: "website",
+      images: [
+        {
+          url: ogImageUrl,
+          width: 1200,
+          height: 630,
+          alt: t("title")
+        }
+      ]
     },
+
+    twitter: {
+
+      card: "summary_large_image",
+      title: t("title"),
+      description: t("description"),
+      images: [ogImageUrl],
+
+    }
 
 
   };

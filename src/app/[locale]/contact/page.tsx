@@ -19,7 +19,7 @@ export async function generateMetadata({ params }: Props){
     const canonicalUrl = locale === "en" ? "https://rafetcelik.com/contact" : `https://rafetcelik.com/${locale}/contact`;
 
     // paylaşım görseli tam adresi:
-    const ogImageUrl = "https://rafetcelik.com/opengraph_image.pmg";
+    const ogImageUrl = "https://rafetcelik.com/opengraph_image.png";
 
     return {
 
@@ -75,6 +75,22 @@ export default function Contact(){
     return (
 
         <div className="">
+
+            <script type="application/ld+json" dangerouslySetInnerHTML={{
+              __html: JSON.stringify({
+                "@context": "https://schema.org",
+                "@type": "Person",
+                name: "Rafet Çelik",
+                url: "https://rafetcelik.com",
+                jobTitle: "Software & R&D Engineer",
+                knowsAbout: [
+                  "Software Engineer",
+                  "Artificial Intelligence",
+                  "Autonomous Systems",
+                ],
+              }),
+            }}></script>
+
            <span>{t("first_p")}</span>
             <div className="flex gap-2">
                 <span>{t("phone")}</span>

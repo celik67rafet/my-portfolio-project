@@ -1,6 +1,5 @@
 import { useTranslations } from "next-intl";
 import { getTranslations } from "next-intl/server";
-import ProjectFailedIcon from "@/public/project_failed.svg";
 import Image from "next/image";
 
 
@@ -77,6 +76,22 @@ export default function AboutMe(){
 
     return (
         <div>
+
+            <script type="application/ld+json" dangerouslySetInnerHTML={{
+              __html: JSON.stringify({
+                "@context": "https://schema.org",
+                "@type": "Person",
+                name: "Rafet Çelik",
+                url: "https://rafetcelik.com",
+                jobTitle: "Software & R&D Engineer",
+                knowsAbout: [
+                  "Software Engineer",
+                  "Artificial Intelligence",
+                  "Autonomous Systems",
+                ],
+              }),
+            }}></script>
+
             <div className="flex items-center">
                 <Image src="/sketch_kid_light.svg" alt="Project Failed Image" width={150} height={40} className="h-90 w-auto dark:hidden"/>
                 <Image src="/sketch_kid_dark.svg" alt="Project Failed Image" width={150} height={40} className="h-90 w-auto hidden dark:block"/>

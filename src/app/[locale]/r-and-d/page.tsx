@@ -74,6 +74,21 @@ export default function RDPage(){
 
             <div>
 
+                <script type="application/ld+json" dangerouslySetInnerHTML={{
+              __html: JSON.stringify({
+                "@context": "https://schema.org",
+                "@type": "Person",
+                name: "Rafet Çelik",
+                url: "https://rafetcelik.com",
+                jobTitle: "Software & R&D Engineer",
+                knowsAbout: [
+                  "Software Engineer",
+                  "Artificial Intelligence",
+                  "Autonomous Systems",
+                ],
+              }),
+            }}></script>
+
                 { /** Google arama motoru için Ar-Ge / Proje Sayfası Şeması  */ }
                 <script
                     type="application/ld+json"

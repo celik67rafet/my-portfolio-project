@@ -1,6 +1,6 @@
 "use client";
 
-import Link from "next/link";
+import { Link } from "@/i18n/routing";
 import { usePathname } from "next/navigation";
 import { useTranslations } from "next-intl";
 
@@ -32,7 +32,7 @@ export default function BreadCrumb(){
                 { pathSegments.map( ( segment, index ) => {
 
                     // Her segment için dinamik href oluştur:
-                    const href = "/" + ( isLocale ? `${segments[0]}/` : "") + pathSegments.slice( 0, index + 1 ).join("/"); 
+                    const href = "/" + pathSegments.slice(0, index + 1).join("/");
 
                     const isLast = index === pathSegments.length - 1;
 

@@ -30,6 +30,14 @@ export default async function LocaleLayout({ children, params }: Readonly<{ chil
       enableSystem
       disableTransitionOnChange
     >
+
+      {/* ✅ Sadece bu satırı ekle */}
+    <script
+      dangerouslySetInnerHTML={{
+        __html: `document.documentElement.lang = "${locale}";`,
+      }}
+    />
+
       <NextIntlClientProvider messages={messages}>
         {/* Light & Dark Arka Planlar */}
         <div className="pointer-events-none fixed inset-0 -z-10 bg-[url('/bg_light.png')] dark:hidden"/>
