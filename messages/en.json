@@ -73,6 +73,11 @@
     "r-and-d":"R & D",
     "about-me":"About Me",
     "contact":"Contact"
+  },
+    "NotFound": {
+    "title": "Page Not Found",
+    "description": "The page you are looking for might have been removed, had its name changed, or is temporarily unavailable.",
+    "backToHome": "Back to Home"
   }
   
 }

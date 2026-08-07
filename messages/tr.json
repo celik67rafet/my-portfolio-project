@@ -76,5 +76,10 @@
     "r-and-d":"Ar-Ge",
     "about-me":"Hakkımda",
     "contact":"İletişim"
+  },
+  "NotFound": {
+    "title": "Sayfa Bulunamadı",
+    "description": "Aradığınız sayfa silinmiş, adı değiştirilmiş veya geçici olarak kullanım dışı olabilir.",
+    "backToHome": "Ana Sayfaya Dön"
   }
 }
