@@ -35,7 +35,7 @@ export function Navbar(){
 
                 </Link>
                 <div className="w-max justify-center items-center gap-8 text-2xl hidden md:flex">
-                    <Link className="hover:opacity-60" href="/r&d">{t("r_and_d")}</Link>
+                    <Link className="hover:opacity-60" href="/r-and-d">{t("r_and_d")}</Link>
                     <Link className="hover:opacity-60" href="/about-me">{t("about_me")}</Link>
                     <Link className="hover:opacity-60" href="/contact">{t("contact")}</Link>
                 </div>

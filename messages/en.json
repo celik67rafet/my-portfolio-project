@@ -32,6 +32,47 @@
 
   "Footer": {
     "rights": "© 2026 Rafet Celik. All Right Reserved."
+  },
+  "RD": {
+    "title": "R&D Projects | Rafet Celik",
+    "description": "Personal R&D work focused on backend architectures, artificial intelligence, and autonomous systems, combining a mechanical engineering background with software development experience.",
+    "page_title": "R&D & Research Projects",
+    "page_subtitle": "PROJECT DATUMNAV",
+    "first_p":"I realized that existing map services fell short for the autonomous ground vehicle I aim to develop, as they rely solely on standard roads. True autonomy, however, requires navigating off-road conditions independently. No matter how autonomous a vehicle is, it still needs a foundational navigation framework to comprehend the terrain. Project DatumNAV was born out of this need. The project is currently in its early stages and at a level where it can be tested locally. I am releasing this initial demo because I believe feedback from different perspectives will contribute significantly to its development.",
+    "fig":"Project DATUMNAV Demo Interface",
+    "third_title":"Parameters:",
+    "strong_first":"Eğim Limiti:",
+    "strong_second":"Vektör Yol Takibi:",
+    "strong_third":"Tile Size (Piksel):",
+    "strong_fourth":"GeoJSON:",
+    "second_p":"Maximum allowable slope limit ( degrees )",
+    "third_p":"You can decide whether to include paved roads when generating the route.",
+    "fourth_p":"Determines the block size used to partition map data in memory, directly affecting route calculation time.",
+    "fifth_p":"You can also download the route in GeoJSON format and export it to any GeoJSON viewer for further analysis.",
+    "warning":"Since this live demo only includes data for Türkiye, routes can only be generated within Türkiye's borders. Additionally, please avoid requesting very long-distance routes, as calculations may take longer due to VPS server limitations.",
+    "go_demo":"Go to Demo"
+  },
+
+  "AboutMe":{
+
+    "title": "About Me",
+    "description": "Software developer with nearly 3 years of experience. I build backend architectures, APIs, and enterprise systems using .NET and JS/TS, currently focusing on RAG-based AI applications and autonomous navigation projects.",
+    "first_p": "As a child, I was constantly sketching on paper; it was much more than just a hobby for me. I would draw vehicles and aliens from the sci-fi and action movies I watched, blending different designs to create something new.",
+    "second_p":"After graduating from high school in science and math, I studied Mechanical Engineering in college. Towards the end of my undergraduate studies, driven by a desire to build something tangible, I set out to develop a high-speed test platform for an RC car with active aerodynamic parts. Although the project failed, it introduced me to Arduino. At the time, without even knowing the code was C-based, I was adapting code snippets from search engines through trial and error. After completing my military service, I enrolled in a software boot camp and stepped into the .NET ecosystem.",
+    "third_p":"Throughout my professional career, I have developed a wide range of projects—from end-to-end web applications to desktop software—using technologies like Angular, React, and .NET. As I realized how AI tools dramatically accelerate the learning process, I decided to stop shelving the ideas that had occupied my mind since childhood and instead bring them to life through R&D principles. Project DatumNAV was born as the first fruit of this decision."
+  },
+  "Contact":{
+    "title":"Contact",
+    "description":"Fikirlerinizi paylaşmak, projelerim hakkında konuşmak veya iş birliği fırsatlarını değerlendirmek için aşağıdaki kanallardan ya da iletişim formundan bana ulaşabilirsiniz. En kısa sürede dönüş yapmaya çalışıyorum.",
+    "first_p":"You can reach me anytime through the following channels:",
+    "phone":"Phone :",
+    "email":"E-mail :"
+  },
+  "Breadcrumb":{
+    "home": "Home",
+    "r-and-d":"R & D",
+    "about-me":"About Me",
+    "contact":"Contact"
   }
   
 }

@@ -33,5 +33,48 @@
 
   "Footer": {
     "rights": "© 2026 Rafet Çelik. Tüm hakları saklıdır."
+  },
+
+  "RD": {
+    "title": "Ar-Ge Projeleri | Rafet Çelik",
+    "description": "Makine mühendisliği altyapısını yazılım tecrübesiyle birleştiren; backend mimarileri, yapay zekâ ve otonom sistemler üzerine yürüttüğüm kişisel Ar-Ge çalışmaları.",
+    "page_title": "Ar-Ge ve Araştırma Projeleri",
+    "page_subtitle": "PROJECT DATUMNAV",
+    "first_p":"Geliştirmeyi hedeflediğim otonom kara aracı için mevcut harita servislerinin yetersiz kaldığını gördüm; çünkü bu servisler yalnızca standart kara yollarına bağımlı çalışıyor. Oysa gerçek bir otonomi, yollardan bağımsız arazi şartlarında da yön bulabilmeyi gerektirir. Araç ne kadar bağımsız olursa olsun, dünyayı algılayabilmek için temel bir navigasyon altyapısına ihtiyaç duyar. Project DatumNAV bu ihtiyaçtan doğdu. Proje henüz erken aşamada ve lokal ortamda test edilebilir seviyede. Gelecek farklı geri bildirimlerin geliştirmelere katkı sağlayacağını düşündüğüm için bu ilk demoyu yayınlıyorum.",
+    "fig":"Project DATUMNAV Demo Arayüzü",
+    "third_title":"Parametreler:",
+    "strong_first":"Eğim Limiti:",
+    "strong_second":"Vektör Yol Takibi:",
+    "strong_third":"Tile Size (Piksel):",
+    "strong_fourth":"GeoJSON:",
+    "second_p":"İzin verilen maksimum eğim limiti ( derece )",
+    "third_p":"Rota çizilirken kara yollarının dahil edilip edilmeyeceğine karar verebilirsiniz.",
+    "fourth_p":"Bellekte işlenen harita parçalarının kaçar bloklarla bölüneceğini belirler, rota çizme süresine etki eder.",
+    "fifth_p":"Rota çizgisini aynı zamanda GeoJSON formatta indirip GeoJSON görüntüleyen platformlara export ederek de inceleyebilirsiniz.",
+    "warning":"Yayındaki bu demo sadece Türkiye verilerini içerdiği için sadece Türkiye sınırları içinde rota çizilebilir. Ayrıca çok uzun mesafelerde rota isteği oluşturmamaya özen gösterin çünkü vps sunucu üzerinde çalıştığı için hesaplamalar çok uzun sürebilir.",
+    "go_demo":"Demoya Git"
+  },
+
+  "AboutMe":{
+
+    "title": "Hakkımda",
+    "description": "Yaklaşık 3 yıllık tecrübeye sahip bir yazılım geliştiriciyim. .NET ve JS/TS ekosistemlerinde backend mimarileri, API servisleri ve kurumsal sistemler geliştiriyorum. Son dönemde ise RAG tabanlı yapay zekâ uygulamaları ve otonom navigasyon projelerine odaklanıyorum.",
+    "first_p":"Çocukluğumda sürekli kâğıtlara bir şeyler çizerdim; bu benim için bir hobiden çok daha fazlasıydı. İzlediğim bilim kurgu ve aksiyon filmlerindeki araçları, uzaylıları resmeder, farklı tasarımları birbirine karıştırarak yeni şeyler üretirdim.",
+    "second_p":"Sayısal bölümden mezun olduktan sonra üniversitede Makine Mühendisliği okudum. Lisans dönemimin sonlarına doğru ilk kez somut bir şey üretme hevesiyle 'aktif aerodinamik parçalara sahip bir RC otomobilde yüksek hızlarda test edilebilir bir platform' geliştirmeye karar verdim. Ancak başarısız oldum. Arduino ile tanışmam bu sürece dayanıyor. O dönemde C tabanlı olduğunu bile bilmediğim kod bloklarını, arama motorlarından bularak deneme-yanılma yoluyla projeme uyarlıyordum.Sonra askerlik görevimin ardından bir yazılım eğitimine katılarak .NET ekosistemiyle tanıştım.",
+    "third_p":"Profesyonel kariyerimde Angular, React ve .NET gibi teknolojilerle uçtan uca web sitelerinden masaüstü uygulamalarına kadar farklı projeler geliştirdim. Bu süreçte yapay zekâ araçlarının öğrenme hızını nasıl artırdığını fark edince, çocukluğumdan beri aklımı meşgul eden fikirleri rafa kaldırmak yerine Ar-Ge prensipleriyle hayata geçirmeye karar verdim. Project DatumNAV da tam olarak bu kararın ilk meyvesi olarak ortaya çıktı."
+
+  },
+  "Contact":{
+    "title":"İletişim",
+    "description":"Fikirlerinizi paylaşmak, projelerim hakkında konuşmak veya iş birliği fırsatlarını değerlendirmek için aşağıdaki kanallardan ya da iletişim formundan bana ulaşabilirsiniz. En kısa sürede dönüş yapmaya çalışıyorum.",
+    "first_p":"Bana istediğiniz zaman şu kanallardan ulaşabilirsiniz:",
+    "phone":"Telefon :",
+    "email":"E-mail :"
+  },
+  "Breadcrumb":{
+    "home": "Anasayfa",
+    "r-and-d":"Ar-Ge",
+    "about-me":"Hakkımda",
+    "contact":"İletişim"
   }
 }

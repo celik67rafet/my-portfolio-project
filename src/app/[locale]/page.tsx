@@ -71,7 +71,7 @@ export default function HomePage(){
                 {t("second_title")}
               </h2>
 
-              <p className="text-base md:text-lg text-gray-600 dark:text-gray-400 leading-relaxed">
+              <p className="text-base md:text-lg text-gray-700 dark:text-gray-400 leading-relaxed">
                 {t("first_p")}
               </p>
             </section>
@@ -82,10 +82,10 @@ export default function HomePage(){
               <h3 className="text-xl md:text-2xl pt-10 font-semibold text-gray-700 dark:text-gray-300 flex items-center">
                 <svg xmlns="http://www.w3.org/2000/svg" className="w-6 h-6" viewBox="0 0 24 24" fill="currentColor"><path d="M15.6315 12L10.8838 3.03212L9.11622 3.9679L13.3685 12L9.11622 20.0321L10.8838 20.9679L15.6315 12Z"></path></svg>
                 {t("fourth_title")}</h3>
-              <p className="pt-4 pl-6 text-base md:text-lg text-gray-600 dark:text-gray-400 leading-relaxed">{t("second_p")}
+              <p className="pt-4 pl-6 text-base md:text-lg text-gray-700 dark:text-gray-400 leading-relaxed">{t("second_p")}
               </p>
               <br></br>
-              <p className="pl-6 text-base md:text-lg text-gray-600 dark:text-gray-400 leading-relaxed">
+              <p className="pl-6 text-base md:text-lg text-gray-700 dark:text-gray-400 leading-relaxed">
               {t("third_p")}
               </p>
 
@@ -93,10 +93,10 @@ export default function HomePage(){
                 <svg xmlns="http://www.w3.org/2000/svg" className="w-6 h-6" viewBox="0 0 24 24" fill="currentColor"><path d="M15.6315 12L10.8838 3.03212L9.11622 3.9679L13.3685 12L9.11622 20.0321L10.8838 20.9679L15.6315 12Z"></path></svg>
                 {t("fifth_title")}
               </h3>
-              <p className="pt-4 pl-6 text-base md:text-lg text-gray-600 dark:text-gray-400 leading-relaxed">{t("fourth_p")}
+              <p className="pt-4 pl-6 text-base md:text-lg text-gray-700 dark:text-gray-400 leading-relaxed">{t("fourth_p")}
               <br></br>
               </p>
-              <p className="pt-4 pl-6 text-base md:text-lg text-gray-600 dark:text-gray-400 leading-relaxed">
+              <p className="pt-4 pl-6 text-base md:text-lg text-gray-700 dark:text-gray-400 leading-relaxed">
               {t("fifth_p")}
               </p>
 
@@ -105,19 +105,19 @@ export default function HomePage(){
                 {t("sixth_title")}
               </h3>
 
-              <p className="pt-4 pl-6 text-base md:text-lg text-gray-600 dark:text-gray-400 leading-relaxed">
+              <p className="pt-4 pl-6 text-base md:text-lg text-gray-700 dark:text-gray-400 leading-relaxed">
                {t("sixth_p")}
               </p>
               <br></br>
-              <p className="pl-6 text-base md:text-lg text-gray-600 dark:text-gray-400 leading-relaxed">
+              <p className="pl-6 text-base md:text-lg text-gray-700 dark:text-gray-400 leading-relaxed">
                {t("seventh_p")}
               </p>
               <br></br>
-              <p className="pl-6 text-base md:text-lg text-gray-600 dark:text-gray-400 leading-relaxed">
+              <p className="pl-6 text-base md:text-lg text-gray-700 dark:text-gray-400 leading-relaxed">
               {t("eighth_p")}
               </p>
               <br></br>
-              <p className="pl-6 text-base md:text-lg text-gray-600 dark:text-gray-400 leading-relaxed">
+              <p className="pl-6 text-base md:text-lg text-gray-700 dark:text-gray-400 leading-relaxed">
               {t("nineth_p")}
               </p>
               <br></br>
