@@ -7,16 +7,13 @@ const saira = Saira({
 });
 
 export default async function RootLayout({
-  children,
-  params
+  children
 }: {
-  children: React.ReactNode; params: Promise<{ locale: string }>
+  children: React.ReactNode
 }) {
 
-  const { locale } = await params;
-
   return (
-    <html lang={locale} suppressHydrationWarning>
+    <html suppressHydrationWarning>
       <body className={`${saira.className} min-h-screen flex flex-col text-[#003f78ff] dark:text-white bg-white dark:bg-[#003f78ff]`}>
         {children}
       </body>
