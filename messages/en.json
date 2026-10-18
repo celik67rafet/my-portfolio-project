@@ -38,6 +38,7 @@
     "description": "Personal R&D work focused on backend architectures, artificial intelligence, and autonomous systems, combining a mechanical engineering background with software development experience.",
     "page_title": "R&D & Research Projects",
     "page_subtitle": "PROJECT DATUMNAV",
+    "page_subtitle2": "PROJECT YELME",
     "first_p":"I realized that existing map services fell short for the autonomous ground vehicle I aim to develop, as they rely solely on standard roads. True autonomy, however, requires navigating off-road conditions independently. No matter how autonomous a vehicle is, it still needs a foundational navigation framework to comprehend the terrain. Project DatumNAV was born out of this need. The project is currently in its early stages and at a level where it can be tested locally. I am releasing this initial demo because I believe feedback from different perspectives will contribute significantly to its development.",
     "fig":"Project DATUMNAV Demo Interface",
     "third_title":"Parameters:",
@@ -49,6 +50,10 @@
     "third_p":"You can decide whether to include paved roads when generating the route.",
     "fourth_p":"Determines the block size used to partition map data in memory, directly affecting route calculation time.",
     "fifth_p":"You can also download the route in GeoJSON format and export it to any GeoJSON viewer for further analysis.",
+    "sixth_p":"After successfully routing autonomous vehicles to distant targets with the DatumNAV project, I realized a new need: Once the vehicle reaches its destination, who will explore that unknown environment in detail?",
+    "seventh_p":"Project-Yelme was born from this very question. My goal is to develop an autonomous robot swarm capable of organizing without human intervention, mapping its surroundings, making rapid decisions, and reporting real-time status.",
+    "eighth_p": "I began by focusing on how a swarm could most efficiently scan an unknown area, and I developed a simulation incorporating core swarm mechanics. My current goal is to optimize this system and release it as a web demo. My ultimate vision is to bring this architecture into the physical world with real hardware, operating under the command of an Artificial Intelligence (LLM).",
+    "nineth_p":"If you'd like to see the system's current capabilities and swarm dynamics in action, you can check out the short demo video I prepared below:",
     "warning":"Since this live demo only includes data for Türkiye, routes can only be generated within Türkiye's borders. Additionally, please avoid requesting very long-distance routes, as calculations may take longer due to VPS server limitations.",
     "go_demo":"Go to Demo"
   },

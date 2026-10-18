@@ -40,6 +40,7 @@
     "description": "Makine mühendisliği altyapısını yazılım tecrübesiyle birleştiren; backend mimarileri, yapay zekâ ve otonom sistemler üzerine yürüttüğüm kişisel Ar-Ge çalışmaları.",
     "page_title": "Ar-Ge ve Araştırma Projeleri",
     "page_subtitle": "PROJECT DATUMNAV",
+    "page_subtitle2": "PROJECT YELME",
     "first_p":"Geliştirmeyi hedeflediğim otonom kara aracı için mevcut harita servislerinin yetersiz kaldığını gördüm; çünkü bu servisler yalnızca standart kara yollarına bağımlı çalışıyor. Oysa gerçek bir otonomi, yollardan bağımsız arazi şartlarında da yön bulabilmeyi gerektirir. Araç ne kadar bağımsız olursa olsun, dünyayı algılayabilmek için temel bir navigasyon altyapısına ihtiyaç duyar. Project DatumNAV bu ihtiyaçtan doğdu. Proje henüz erken aşamada ve lokal ortamda test edilebilir seviyede. Gelecek farklı geri bildirimlerin geliştirmelere katkı sağlayacağını düşündüğüm için bu ilk demoyu yayınlıyorum.",
     "fig":"Project DATUMNAV Demo Arayüzü",
     "third_title":"Parametreler:",
@@ -51,6 +52,10 @@
     "third_p":"Rota çizilirken kara yollarının dahil edilip edilmeyeceğine karar verebilirsiniz.",
     "fourth_p":"Bellekte işlenen harita parçalarının kaçar bloklarla bölüneceğini belirler, rota çizme süresine etki eder.",
     "fifth_p":"Rota çizgisini aynı zamanda GeoJSON formatta indirip GeoJSON görüntüleyen platformlara export ederek de inceleyebilirsiniz.",
+    "sixth_p":"DATUMNAV projesiyle otonom araçlar için uzak hedeflere verimli rotalar çizmeyi başardıktan sonra yeni bir ihtiyacı fark ettim: Araç hedefe ulaştığında, o bilinmeyen çevreyi detaylıca kim keşfedecek?",
+    "seventh_p":"Project-Yelme bu sorudan yola çıkarak doğdu. Amacım; insan müdahalesine gerek duymadan organize olan, çevrenin haritasını çıkaran, hızlı kararlar alıp durumu raporlayabilen otonom bir robot sürüsü ( swarm ) geliştirmek.",
+    "eighth_p": "Çalışmalara, bir sürünün bilinmeyen bir alanı en verimli şekilde nasıl tarayacağına odaklanarak başladım ve temel sürü mekanikleri barındıran bir simülasyon geliştirdim. Şu anki ilk hedefim bu sistemi optimize edip bir web demosu olarak yayınlamak. Nihai vizyonum ise bu yapıyı bir Yapay Zeka ( LLM ) komutası altında, gerçek donanımlarla fiziksel dünyaya taşımak.",
+    "nineth_p":"Sistemin mevcut yeteneklerini ve sürü dinamiklerini çalışırken görmek isterseniz, hazırladığım kısa demo videosuna göz atabilirsiniz:",
     "warning":"Yayındaki bu demo sadece Türkiye verilerini içerdiği için sadece Türkiye sınırları içinde rota çizilebilir. Ayrıca çok uzun mesafelerde rota isteği oluşturmamaya özen gösterin çünkü vps sunucu üzerinde çalıştığı için hesaplamalar çok uzun sürebilir.",
     "go_demo":"Demoya Git"
   },

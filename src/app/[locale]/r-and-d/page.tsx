@@ -141,6 +141,19 @@ export default function RDPage(){
 
                     </article>
 
+                    <article>
+                        <h1 className="text-3xl uppercase pt-12 md:pt-24">{t("page_subtitle2")}</h1>
+
+                        <p className="pt-4 text-base md:text-lg text-gray-700 dark:text-white leading-relaxed">{t("sixth_p")}</p>
+                        <p className="pt-4 text-base md:text-lg text-gray-700 dark:text-white leading-relaxed">{t("seventh_p")}</p>
+                        <p className="pt-4 text-base md:text-lg text-gray-700 dark:text-white leading-relaxed">{t("eighth_p")}</p>
+                        <p className="pt-6 text-base md:text-lg text-gray-700 dark:text-white leading-relaxed underline mb-8">{t("nineth_p")}</p>
+
+                        <video autoPlay muted loop playsInline preload="metadata">
+                            <source src="/first_demo_rev.mp4" type="video/mp4" />
+                        </video>
+                    </article>
+
                 </section>                    
 
             </div>
