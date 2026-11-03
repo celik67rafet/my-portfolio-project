@@ -54,6 +54,8 @@
     "seventh_p":"Project-Yelme was born from this very question. My goal is to develop an autonomous robot swarm capable of organizing without human intervention, mapping its surroundings, making rapid decisions, and reporting real-time status.",
     "eighth_p": "I began by focusing on how a swarm could most efficiently scan an unknown area, and I developed a simulation incorporating core swarm mechanics. My current goal is to optimize this system and release it as a web demo. My ultimate vision is to bring this architecture into the physical world with real hardware, operating under the command of an Artificial Intelligence (LLM).",
     "nineth_p":"If you'd like to see the system's current capabilities and swarm dynamics in action, you can check out the short demo video I prepared below:",
+    "tenth_p": "System Watcher is my first desktop application published on the Microsoft Store, designed to monitor hardware resources and background processes in real time. Built to be lightweight and resource-efficient, it delivers essential system control through a clean, intuitive, and focused interface.",
+    "eleventh_p":"To explore or purchase:",
     "warning":"Since this live demo only includes data for Türkiye, routes can only be generated within Türkiye's borders. Additionally, please avoid requesting very long-distance routes, as calculations may take longer due to VPS server limitations.",
     "go_demo":"Go to Demo"
   },

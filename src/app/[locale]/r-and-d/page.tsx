@@ -2,6 +2,8 @@ import { useTranslations } from "next-intl";
 import { getTranslations } from "next-intl/server";
 import Image from "next/image";
 import Link from "next/link";
+import useEmblaCarousel from "embla-carousel-react";
+import Slider from "@/shared/components/Slider";
 
 
 type Props = {
@@ -20,6 +22,7 @@ export async function generateMetadata({ params }: Props) {
 
     // paylaşım görseli tam adresi:
     const ogImageUrl = "https://rafetcelik.com/opengraph_image.png";
+
 
 
     return {
@@ -111,6 +114,39 @@ export default function RDPage(){
                 <section className="flex flex-col gap-5">
                 
                     <p className="text-xl md:text-2xl">{t("description")}</p>
+
+                    <article>
+                        <h1 className="text-3xl uppercase pt-12 md:pt-24">SYSTEM WATCHER</h1>
+
+                        <p className="pt-4 text-base md:text-lg text-gray-700 dark:text-white leading-relaxed">
+                            {t("tenth_p")}
+                        </p>
+
+                        <p className="pt-4 text-base md:text-lg text-gray-700 dark:text-white leading-relaxed">
+                            {t("eleventh_p")}
+                        </p>
+
+                        <div className="pt-5">
+                            <a
+                                href="https://apps.microsoft.com/detail/9PMR7LMTG301"
+                                target="_blank"
+                                rel="noopener noreferrer"
+                                className="inline-block transition-transform hover:scale-105"
+                            >
+                                <img
+                                src="https://get.microsoft.com/images/en-us%20dark.svg"
+                                alt="Download from Microsoft Store"
+                                className="h-12 w-auto"
+                                />
+                            </a>
+                        </div>
+
+                        <div className="pt-5 lg:pt-12">
+                            <Slider/>
+                        </div>
+
+                        
+                    </article>
 
                     <article>
                         <h1 className="text-3xl uppercase pt-12 md:pt-24">{t("page_subtitle")}</h1>

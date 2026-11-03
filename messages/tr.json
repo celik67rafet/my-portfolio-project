@@ -56,6 +56,8 @@
     "seventh_p":"Project-Yelme bu sorudan yola çıkarak doğdu. Amacım; insan müdahalesine gerek duymadan organize olan, çevrenin haritasını çıkaran, hızlı kararlar alıp durumu raporlayabilen otonom bir robot sürüsü ( swarm ) geliştirmek.",
     "eighth_p": "Çalışmalara, bir sürünün bilinmeyen bir alanı en verimli şekilde nasıl tarayacağına odaklanarak başladım ve temel sürü mekanikleri barındıran bir simülasyon geliştirdim. Şu anki ilk hedefim bu sistemi optimize edip bir web demosu olarak yayınlamak. Nihai vizyonum ise bu yapıyı bir Yapay Zeka ( LLM ) komutası altında, gerçek donanımlarla fiziksel dünyaya taşımak.",
     "nineth_p":"Sistemin mevcut yeteneklerini ve sürü dinamiklerini çalışırken görmek isterseniz, hazırladığım kısa demo videosuna göz atabilirsiniz:",
+    "tenth_p": "System Watcher, donanım kaynaklarını ve arka plan işlemlerini anlık olarak izlemek amacıyla geliştirdiğim, Microsoft Store üzerinde yayınladığım ilk masaüstü uygulamamdır. Sistem kaynaklarını yormayan hafif yapısıyla süreç kontrolünü sade ve doğrudan kullanıcı odaklı bir arayüzde bir araya getirir.",
+    "eleventh_p":"İncelemek ya da satın almak için:",
     "warning":"Yayındaki bu demo sadece Türkiye verilerini içerdiği için sadece Türkiye sınırları içinde rota çizilebilir. Ayrıca çok uzun mesafelerde rota isteği oluşturmamaya özen gösterin çünkü vps sunucu üzerinde çalıştığı için hesaplamalar çok uzun sürebilir.",
     "go_demo":"Demoya Git"
   },
